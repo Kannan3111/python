@@ -1,0 +1,11 @@
+module = collection of functions or definitions
+packages = collection of modules
+
+pypi = repo for the public modules
+can download the module using = pip install module_name
+to get the list of available modules - pip list
+
+virtual env - to manage the different versions of a module in same machine for different projects
+pip install virtualenv - to install venv module
+python -m venv project1 - to craete a virtual environment for project1
+source project1/bin/activate - to activate the environment
